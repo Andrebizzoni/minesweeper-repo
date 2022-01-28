@@ -2,4 +2,4 @@
 
 Simply Minesweeper. A true classic.
 
-Have fun!
+Have fun! :)
