@@ -1,2 +1,3 @@
 # Minesweeper-repo
-The classic minesweeper game
+
+Simply Minesweeper. A true classic.
