@@ -1,5 +1,5 @@
-# Minesweeper-repo
+# minesweeper-repo
 
-Simply Minesweeper! A true classic.
+Simply minesweeper! A true classic.
 
 Have fun!
